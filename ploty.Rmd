@@ -1,0 +1,79 @@
+---
+title: "Instacart Orders"
+output: 
+  html_document:
+   toc: true
+   toc_float: true
+   code_folding: hide
+---
+
+```{r setup, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+```
+
+## Clean & Filter the data
+I filtered the instacart data to only focous on snack department
+```{r, message=FALSE}
+data("instacart")
+ins_df = instacart %>%
+  filter(department == "snacks")
+```
+
+## Scatter Plot
+```{r, message=FALSE}
+ins_df %>% 
+  group_by(product_name) %>%
+  mutate(reordered_sum = sum(reordered),
+         n_obs = n()) %>%
+  mutate(text_label = str_c("Product Name: ", product_name, "\n Number of Reorder Purchases: ", n_obs)) %>% 
+  plot_ly(
+    x = ~n_obs, y = ~reordered_sum, color = ~aisle, text = ~text_label,
+    alpha = .5, type = "scatter", mode = "markers", colors = "viridis", showlegend = FALSE) %>%
+  layout(
+    xaxis = list(title = "Number of Purchases"),
+    yaxis = list(title = "Number of Reorder Purchases"),
+    title = "Number of Purchases vs. Number of Reorder Purchases"
+  ) %>% 
+  layout(legend = list(x = 0.05, y = 0.9))
+```
+
+
+## Box Plot
+```{r, message=FALSE}
+ins_df %>%
+  group_by(aisle) %>%
+  plot_ly(x = ~aisle,
+          y = ~days_since_prior_order,
+          color = ~aisle,
+          type = "box", colors = "viridis", showlegend = FALSE) %>%
+    layout(
+    xaxis = list(title = "Aisel"),
+    yaxis = list(title = "Days since the last order"),
+    title = "Boxplot of Days since the last order of each aisle"
+  )
+```
+
+
+## Bar Plot
+```{r, message=FALSE}
+ins_df %>% 
+    count(aisle) %>% 
+    mutate(
+        aisle = factor(aisle),
+        aisle = fct_reorder(aisle, n)
+    ) %>% 
+   plot_ly(
+    x = ~aisle, y = ~n, color = ~aisle, 
+    type = "bar", colors = "viridis", showlegend = FALSE) %>%
+  layout(
+    xaxis = list(title = "Aisle"),
+    yaxis = list(title = "Count"),
+    title = "Count of Items in the Snack Department"
+  )
+  
+```
+
+

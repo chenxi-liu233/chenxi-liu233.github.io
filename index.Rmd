@@ -1,79 +1,59 @@
 ---
-title: "Chenxi Liu"
+title: "Chenxi Liu's Website"
 output: 
   html_document:
    toc: true
    toc_float: true
 ---
-Welcome to my website! I created this website to upload my academic and professional experiences to the internet.
+Welcome to my website! 
+<img src=".\images\ds.jpg" style="width:100%">
+I love data science, statistics and coding!
 
-<img src="DSC01420.jpg" style="width:50%">
+I am a first-year MS student majoring in biostatistics at Columbia University School of Public Health. I am a highly motivated student passionate about data science, statistics, coding, machine learning, database management, consulting, risk, and technology application. I have professional experiences in Statistical Analysis, Modeling, Inference, Regression, Data Visualization, Python, SQL, and R programming. 
 
-[My Linkedln Page](https://www.linkedin.com/in/chenxi-liu-columbia/)
+I am seeking internship opportunities as a Data Analyst or Data Scientist.
 
-## Education
+* Specialties:
+  + R
+  + Python
+  + SQL
+  + Microsoft Office (Excel, Word, Powerpoint)
+  + Outlook 
 
-**Columbia University** | New York, NY[Expected May 2022]{style="float:right"}
+## [My Rusume](about.html)
+* click above to view my resume
+
+## More about me
+[My LinkedlIn Page](https://www.linkedin.com/in/chenxi-liu-columbia/)
 \
-M.S. Candidate in **Biostatistics** (GPA in progress)
-\
-**Relevant Courses**: Probability, Data Science, Biostatistical Methods. 
-\
-**Extra Courses**: Relational Databases and SQL(edX), Machine Learning (Coursera)
-\
-**Franklin & Marshall College (F&M)** | Lancaster, PA[May 2020]{style="float:right"}
-\
-B.A. in **Mathematics** (GPA: 3.37/4.0)
-\
-**Relevant Courses**: Statistical Modeling, Computational Mathematics, Probability and Statistics I&II, Computer Science I&II, Linear Algebra, Mathematics Analysis, Calculus II & III. 
+[My Github Page](https://github.com/chenxi-liu233)
 
-## Programming & Skills
-* R(tidyverse, ggplot, httr, rvest, ploty), Python(numpy, pandas, matplotlib, scikit-learn), LaTeX, MATLAB, SQL, MS Office.
-\
-* Statistical Analysis, Machine Learning, Modeling, Inference, Regression, Data Visualization, Data Mining, Data Cleaning, Data Manipulation, Data Scraping, Command Line, Git and Version Control.
-\
+## My Pictures! {.tabset .tabset-fade}
+I like traveling and playing sports. 
 
-## Professional Experiences
-**Bohai Huijin Securities Asset Management Co., Ltd.**[Beijing, China]{style="float:right"}  
-*Intern Analyst*[July 2019 - August 2019]{style="float:right"}
+### Ski
 
-* Performed investment analysis of the medical industry by analyzing the financial data of 200 A-share listed companies from Wind, and used Capital Asset Pricing Model to spot potential investment targets.
-\
-* Constructed an investment portfolio based on returns of investment using Python pandas.
-\
-* Visualized data frames into plots using Python matplotlib to help decision makings about adding assets.
-\
-* Wrote reports and drew diagrams using latex for the interview meetings with the investors.
+<img src=".\images\IMG_8221.jpg" style="width:100%">
 
-**ByteDance Ltd.** [Beijing, China]{style="float:right"}  
-*Business Analytics Intern*[May 2019 - June 2019]{style="float:right"}
+### Basketball
 
-* Conducted descriptive statistics research on the competitive app by analyzing its daily active user, new user retention, commercial mode, marketing strategy, user characteristics, and user behavior.
-* Identified a strong correlation between the boom of daily active users on the competitive app and their in-app holiday events and promotions.
-* Wrote SQL queries to extract and create designed datasets for analyses from databases.
-* Improved operation strategy by analyzing click rate, conversion rate, and retention rate in Excel. 
+<img src=".\images\basket.jpg" style="width:100%">
 
-**Tsinghua University** [Beijing, China]{style="float:right"}  
-*Research Assistant* [June 2018 - August 2018]{style="float:right"}
+### Track&Field
 
-* Implemented data cleansing, missing data imputation, unnecessary data removal, and data formatting  to establish the flowing model about qualified scientists and technicians using R. 
-* Visualized data by scatterplots, density plots,  pie charts, and histograms using RStudio ggplot to analyze the flow characteristics of the region's high-level talents.
-* Analyzed the contributing factors influencing talent flow and the construction of the flow model using RStudio Fitting Linear and Logistic Models. 
-* Proposed adding control variables such as the level of medical care into the model.
+<img src=".\images\IMG_0347.jpg" style="width:100%">
 
-## Academic Projects
-**Markov Chain in Predicting the Fluctuation of the Stock Market (Python)** [December 2019]{style="float:right"}
 
-* Implemented Markov Chain with Python to predict fluctuations and the frequencies of state changes of the S&P500 index.
-* Implemented user customization that made the user choose the numbers of desired states and time intervals of the training set to construct different transition probability matrixes and the steady-state distributions of this Markov Chain.
+### Japan
 
-**Digital Image Recognition (MATLAB)** [October 2019]{style="float:right"}
+<img src=".\images\IMG_5690.jpg" style="width:100%">
 
-* Constructed a training set of 60,000 handwritten digits into a matrix with each row containing the mean pixel values of a digit.
-* Achieved the digit recognition correctness to 90% by comparing its pixels to those in each row of the training set and determine which row most closely resembles the test digits.
+### France
 
-**This Website (Rmarkdown)** [Nov 2020]{style="float:right"}
+<img src=".\images\IMG_3181.jpg" style="width:100%">
 
-* What you are viewing right now. 
-* Created my introductory website using yaml, rmarkdown and github.io
+### Yellow Stone
 
+<img src=".\images\IMG_0346.jpg" style="width:100%">
+
+##
