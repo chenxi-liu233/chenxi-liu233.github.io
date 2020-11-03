@@ -7,6 +7,7 @@ output:
 ---
 Welcome to my website! I created this website for the purpose of putting my academic and professional experiences to the internet.
 
+<img src="DSC01420.jpg" style="width:50%">
 
 [My Linkedln Page](https://www.linkedin.com/in/chenxi-liu-columbia/)
 
