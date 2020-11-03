@@ -6,4 +6,15 @@ output:
    toc_float: true
 ---
 
-I am a student.
+I am a first-year MS student majoring in biostatistics at Columbia University School of Public Health. I am a highly motivated student passionate about data science, statistics, coding, machine learning, database management, consulting, risk, and technology application. I have professional experiences in Statistical Analysis, Modeling, Inference, Regression, Data Visualization, Python, SQL, and R programming. 
+
+I am seeking internship opportunities as a Data Analyst or Data Scientist.
+
+* Specialties:
+  + R
+  + Python
+  + SQL
+  + Microsoft Office (Excel, Word, Powerpoint)
+  + Outlook 
+
+Email: chenxiliu02@gmail.com
