@@ -33,7 +33,7 @@ I like traveling and playing sports.
 
 ### Ski
 
-<img src=".\images\IMG_8221.jpg" style="width:100%">
+<img src=".\images\ski.jpg" style="width:100%">
 
 ### Basketball
 
@@ -41,19 +41,19 @@ I like traveling and playing sports.
 
 ### Track&Field
 
-<img src=".\images\IMG_0347.jpg" style="width:100%">
+<img src=".\images\track.jpg" style="width:100%">
 
 
 ### Japan
 
-<img src=".\images\IMG_5690.jpg" style="width:100%">
+<img src=".\images\japan.jpg" style="width:100%">
 
 ### France
 
-<img src=".\images\IMG_3181.jpg" style="width:100%">
+<img src=".\images\france.jpg" style="width:100%">
 
 ### Yellow Stone
 
-<img src=".\images\IMG_0346.jpg" style="width:100%">
+<img src=".\images\yellow.jpg" style="width:100%">
 
 ##
