@@ -5,7 +5,7 @@ output:
    toc: true
    toc_float: true
 ---
-Welcome to my website! I created this website for the purpose of putting my academic and professional experiences to the internet.
+Welcome to my website! I created this website to upload my academic and professional experiences to the internet.
 
 <img src="DSC01420.jpg" style="width:50%">
 
