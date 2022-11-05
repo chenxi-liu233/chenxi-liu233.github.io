@@ -22,7 +22,7 @@ I am a business analyst at Lumenis, a medical device company in San Jose. I reci
   + SAS
 
 ## [My Cat](about.html)
-* click above to view my resume
+* click above to view my cute cat!
 
 ## More about me
 [My Sample Project Page](https://wc2750.github.io/AvocadoProj/index.html)
