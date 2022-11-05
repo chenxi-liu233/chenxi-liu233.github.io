@@ -25,6 +25,8 @@ I am a business analyst at Lumenis, a medical device company in San Jose. I reci
 * click above to view my resume
 
 ## More about me
+[My Sample Project Page](https://wc2750.github.io/AvocadoProj/index.html)
+\
 [My LinkedlIn Page](https://www.linkedin.com/in/chenxi-liu-columbia/)
 \
 [My Github Page](https://github.com/chenxi-liu233)
