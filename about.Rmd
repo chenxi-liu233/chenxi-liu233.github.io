@@ -7,56 +7,6 @@ output:
 ---
 <img src=".\images\me.jpg" style="width:50%">
 
-## Education
-
-**Columbia University** | New York, NY[Expected May 2022]{style="float:right"}
-\
-M.S. Candidate in **Biostatistics** (GPA in progress)
-\
-**Relevant Courses**: Probability, Data Science, Biostatistical Methods. 
-\
-**Extra Courses**: Relational Databases and SQL(edX), Machine Learning (Coursera)
-\
-**Franklin & Marshall College (F&M)** | Lancaster, PA[May 2020]{style="float:right"}
-\
-B.A. in **Mathematics** (GPA: 3.37/4.0)
-\
-**Relevant Courses**: Statistical Modeling, Computational Mathematics, Probability and Statistics I&II, Computer Science I&II, Linear Algebra, Mathematics Analysis, Calculus II & III. 
-
-## Programming & Skills
-* R(tidyverse, ggplot, httr, rvest, ploty), Python(numpy, pandas, matplotlib, scikit-learn), LaTeX, MATLAB, SQL, MS Office.
-\
-* Statistical Analysis, Machine Learning, Modeling, Inference, Regression, Data Visualization, Data Mining, Data Cleaning, Data Manipulation, Data Scraping, Command Line, Git and Version Control.
-\
-
-## Professional Experiences
-**Bohai Huijin Securities Asset Management Co., Ltd.**[Beijing, China]{style="float:right"}  
-*Intern Analyst*[July 2019 - August 2019]{style="float:right"}
-
-* Performed investment analysis of the medical industry by analyzing the financial data of 200 A-share listed companies from Wind, and used Capital Asset Pricing Model to spot potential investment targets.
-\
-* Constructed an investment portfolio based on returns of investment using Python pandas.
-\
-* Visualized data frames into plots using Python matplotlib to help decision makings about adding assets.
-\
-* Wrote reports and drew diagrams using latex for the interview meetings with the investors.
-
-**ByteDance Ltd.** [Beijing, China]{style="float:right"}  
-*Business Analytics Intern*[May 2019 - June 2019]{style="float:right"}
-
-* Conducted descriptive statistics research on the competitive app by analyzing its daily active user, new user retention, commercial mode, marketing strategy, user characteristics, and user behavior.
-* Identified a strong correlation between the boom of daily active users on the competitive app and their in-app holiday events and promotions.
-* Wrote SQL queries to extract and create designed datasets for analyses from databases.
-* Improved operation strategy by analyzing click rate, conversion rate, and retention rate in Excel. 
-
-**Tsinghua University** [Beijing, China]{style="float:right"}  
-*Research Assistant* [June 2018 - August 2018]{style="float:right"}
-
-* Implemented data cleansing, missing data imputation, unnecessary data removal, and data formatting  to establish the flowing model about qualified scientists and technicians using R. 
-* Visualized data by scatterplots, density plots,  pie charts, and histograms using RStudio ggplot to analyze the flow characteristics of the region's high-level talents.
-* Analyzed the contributing factors influencing talent flow and the construction of the flow model using RStudio Fitting Linear and Logistic Models. 
-* Proposed adding control variables such as the level of medical care into the model.
-
 ## Academic Projects
 **Markov Chain in Predicting the Fluctuation of the Stock Market (Python)** [December 2019]{style="float:right"}
 

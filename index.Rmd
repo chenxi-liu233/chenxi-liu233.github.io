@@ -9,9 +9,8 @@ Welcome to my website!
 <img src=".\images\ds.jpg" style="width:100%">
 I love data science, statistics and coding!
 
-I am a business analyst at Lumenis, a medical device company in San Jose. I recieved my MS majoring in biostatistics at Columbia University School of Public Health.  I am a highly motivated student passionate about data science, statistics, coding, machine learning, database management, consulting, risk, and technology application. I have professional experiences in Statistical Analysis, Modeling, Inference, Regression, Data Visualization, Python, SQL, and R programming. 
+I am a business analyst at Lumenis, a medical device company in San Jose. I recieved my MS majoring in biostatistics at Columbia University School of Public Health. I am a highly motivated student passionate about data science, statistics, coding, machine learning, database management, consulting, risk, and technology application. I have professional experiences in Statistical Analysis, Modeling, Inference, Regression, Data Visualization, Python, SQL, and R programming. 
 
-I am seeking internship opportunities as a Data Analyst or Data Scientist.
 
 * Specialties:
   + R(tidyverse, caret)
@@ -22,7 +21,7 @@ I am seeking internship opportunities as a Data Analyst or Data Scientist.
   + Tableau
   + SAS
 
-## [My Rusume](about.html)
+## [My Cat](about.html)
 * click above to view my resume
 
 ## More about me
